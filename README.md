@@ -1,2 +1,2 @@
-# teste-de-software
-Materiais de auxilio para testes de software
+# Testes de Software
+Repositório com materiais de auxilio para testes de software
